@@ -1,0 +1,19 @@
+Install XAMPP server
+Go to apache cntrol panel
+Start Apache
+Start Tomcat
+
+
+Running JSP from Apache Tomcat
+------------------------------
+
+1.Create folder in
+	C:\xampp\tomcat\webapps
+	eg. C:\xampp\tomcat\webapps\RAKESHPROJECT
+2.Create jsp file in this folder 
+	C:\xampp\tomcat\webapps\RAKESHPROJECT\test.jsp
+3.Copy the folder WEB-INF from root to this folder
+	C:\xampp\tomcat\webapps\RAKESHPROJECT\WEB-INF
+
+4.Run the file by writing in browser
+	http://localhost:8080/RAKESHPROJECT/test.jsp
